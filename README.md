@@ -1,2 +1,3 @@
-# .github
+# SMJ
+
 Consultant Engineers
