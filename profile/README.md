@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMJ-CE&layout=compact)
+
 <!--
 
 **Here are some ideas to get you started:**
